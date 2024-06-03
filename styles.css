@@ -1,0 +1,23 @@
+.colorful-text {
+  font-size: 24px; /* 文字サイズを設定 */
+}
+
+.red {
+  color: red; /* 赤色の文字 */
+}
+
+.blue {
+  color: blue; /* 青色の文字 */
+}
+
+.yellow {
+  color: yellow; /* 黄色の文字 */
+}
+
+.green {
+  color: green; /* 緑色の文字 */
+}
+
+.purple {
+  color: purple; /* 紫色の文字 */
+}
